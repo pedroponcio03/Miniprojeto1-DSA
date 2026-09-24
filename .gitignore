@@ -1,0 +1,34 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Configurações do PyCharm
+.idea/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de cobertura/testes
+.coverage
+.pytest_cache/
+
+# Build / distribuição
+build/
+dist/
+*.egg-info/
